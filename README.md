@@ -24,6 +24,8 @@ List similar projects or projects that were used as inspiration:
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
+link: https://e-gura-ks2289i7f-izeredukundanes-projects.vercel.app  (Deployments)
+
 
 
 "# e_Gura"
